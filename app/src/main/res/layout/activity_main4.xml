@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity4"
+    android:orientation="vertical"
+    android:background="@drawable/wabg">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textSize="40sp"
+        android:text="Weather Update"
+        android:textStyle="bold"
+        android:textColor="@color/white"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+        </View>
+        <EditText
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/etCity"
+            android:layout_marginBottom="10dp"
+            android:ems="10"
+            android:textColor="@color/white"
+            android:hint="Enter City Name"
+            android:inputType="textPersonName" />
+        <EditText
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/etCountry"
+            android:layout_marginBottom="10dp"
+            android:ems="10"
+            android:textColor="@color/white"
+            android:hint="Enter Country Code (Optional)"
+            android:inputType="textPersonName" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/btnGet"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/round"
+            android:textColor="@android:color/white"
+            android:text="Get"
+             />
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="275dp"
+            >
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/tvResult"
+                android:textStyle="bold"
+                android:textColor="@color/white"/>
+        </ScrollView>
+
+
+
+
+    <!-- view for AdMob Banner Ad -->
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/ad_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id" />
+
+</LinearLayout>
+    </LinearLayout>
