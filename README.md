@@ -1,13 +1,16 @@
 # Asaan4Kissan
 ![logofinal](https://user-images.githubusercontent.com/96763019/187527042-363b0cee-07a3-4f4e-bb9a-f7c38601bbc4.png)<br>
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Inspiration 🧑🏻‍💻<br>
 By looking at the UN sustainable development goals for reducing HUNGER, reducing POVERTY, and focusing on RESPONSIBLE CONSUMPTION & PRODUCTION.Our app is a platform that will facilitate the local farmers to monitor their cultivation, examine the weather and check the health of their crops all at one place.<br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# About Us<br>
+# About Us ℹ️<br>
 As a part of the ASDI Hackathon, we the team of Asaan4Kissan have come up with a sustainable solution for the farmers. The UN's sustainable development goal of good health and well being and also of responsible consumption and production is something that we are trying to accomplish through our project. Our app has features that would comply with the final aim of the sustainable data initiative and minimize the cost and time required to acquire and analyze large sustainability datasets. <br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# About the app<br>
+# About the app 📱<br>
 Our app is a platform that will facilitate the local farmers to monitor their cultivation, examine the weather and check the health of their crops all at one place.<br>
 Functionality of the app:<br>
 ->Weather forecast<br>
@@ -16,7 +19,7 @@ Functionality of the app:<br>
 ->SOS- An emergency helpline<br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# LoginScreen<br>
+# LoginScreen <br>
 ![WhatsApp Image 2022-08-31 at 1 06 09 AM](https://user-images.githubusercontent.com/96763019/187528308-91cc97db-2fb0-4f15-919c-36278fda6eab.jpeg)<br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
