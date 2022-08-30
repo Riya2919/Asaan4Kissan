@@ -71,8 +71,15 @@ Development of the application:<br></br>
 
 * (https://tfhub.dev/rishit-dagli/plant-disease/1)<br></br>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Contributor:-
-1.)<a href="https://github.com/Abhiman1211">Abhiman Gautam </a><br>
+App developer: <br>
+* <a href="https://github.com/Abhiman1211">Abhiman Gautam </a><br>
+* <a href="https://github.com/Riya2919">Riya Gandhi </a><br>
+
+Contributors: <br>
+* <a href="https://github.com/zankhana46">Zankhana Mehta </a><br>
+* <a href="https://github.com/Tithi1408">Tithi Patel </a><br>
+* <a href="https://github.com/devk22">Dev Khandelwal </a><br>
+
 
 
 
