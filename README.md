@@ -1,5 +1,5 @@
 # Asaan4Kissan
-![logofinal](https://user-images.githubusercontent.com/96763019/187527042-363b0cee-07a3-4f4e-bb9a-f7c38601bbc4.png)
+![logofinal](https://user-images.githubusercontent.com/96763019/187527042-363b0cee-07a3-4f4e-bb9a-f7c38601bbc4.png)<br>
 By looking at the UN sustainable development goals for reducing HUNGER, reducing POVERTY, and focusing on RESPONSIBLE CONSUMPTION & PRODUCTION.Our app is a platform that will facilitate the local farmers to monitor their cultivation, examine the weather and check the health of their crops all at one place.<br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
