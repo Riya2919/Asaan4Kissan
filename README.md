@@ -79,10 +79,10 @@ App developer: <br>
 * <a href="https://github.com/Riya2919">Riya Gandhi </a><br>
 
 Contributors: <br>
-* <a href="https://github.com/zankhana46">Zankhana Mehta </a><br>
-* <a href="https://github.com/Tithi1408">Tithi Patel </a><br>
-* <a href="https://github.com/devk22">Dev Khandelwal </a><br>
-* <a href="https://github.com/ranjan210">Ranjan </a><br>
+* <a href="https://github.com/zankhana46">Zankhana Mehta </a></br>
+* <a href="https://github.com/Tithi1408">Tithi Patel </a></br>
+* <a href="https://github.com/devk22">Dev Khandelwal </a></br>
+* <a href="https://github.com/ranjan210">Ranjan </a></br>
 
 
 
