@@ -10,7 +10,7 @@ By looking at the UN sustainable development goals for reducing HUNGER, reducing
 As a part of the ASDI Hackathon, we the team of Asaan4Kissan have come up with a sustainable solution for the farmers. The UN's sustainable development goal of good health and well being and also of responsible consumption and production is something that we are trying to accomplish through our project. Our app has features that would comply with the final aim of the sustainable data initiative and minimize the cost and time required to acquire and analyze large sustainability datasets. <br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# About the app 📱<br>
+# About the app ℹ️ 📱<br>
 Our app is a platform that will facilitate the local farmers to monitor their cultivation, examine the weather and check the health of their crops all at one place.<br>
 Functionality of the app:<br>
 * Weather forecast<br>
@@ -56,7 +56,7 @@ Functionality of the app:<br>
 * ![image](https://user-images.githubusercontent.com/96763019/187529212-b9619d33-11fe-4bb7-8e1b-ca9510d259cd.png)<br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Workingoftheapp<br>
+# Working of the app ℹ️ 📱 <br>
  https://user-images.githubusercontent.com/96763019/187535114-fb056f78-da8e-458f-8ac6-af7ab0578a7e.mp4
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
