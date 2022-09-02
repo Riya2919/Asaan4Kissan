@@ -76,7 +76,7 @@ Development of the application:<br></br>
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 App developer: <br></br>
 * <a href="https://github.com/Abhiman1211">Abhiman Gautam </a><br>
-* <a href="https://github.com/Riya2919">Riya Gandhi </a><br>
+* <a href="https://github.com/Riya2919">Riya Gandhi </a><br></br>
 
 Contributors: <br></br>
 * <a href="https://github.com/zankhana46">Zankhana Mehta </a></br>
