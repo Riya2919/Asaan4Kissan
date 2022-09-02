@@ -74,11 +74,11 @@ Development of the application:<br></br>
 * [Labels.txt](https://github.com/Abhiman1211/Asaan4Kissan/files/9467267/Labels.txt) (Labels) 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-App developer: <br>
+App developer: <br></br>
 * <a href="https://github.com/Abhiman1211">Abhiman Gautam </a><br>
 * <a href="https://github.com/Riya2919">Riya Gandhi </a><br>
 
-Contributors: <br>
+Contributors: <br></br>
 * <a href="https://github.com/zankhana46">Zankhana Mehta </a></br>
 * <a href="https://github.com/Tithi1408">Tithi Patel </a></br>
 * <a href="https://github.com/devk22">Dev Khandelwal </a></br>
