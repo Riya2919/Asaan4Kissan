@@ -84,6 +84,7 @@ Contributors: <br></br>
 * <a href="https://github.com/devk22">Dev Khandelwal </a></br>
 * <a href="https://github.com/ranjan210">Ranjan </a></br>
 * <a href="https://github.com/Anushkaa27">Anushka Singh</a></br>
+* <a href="https://github.com/Vaishnaviii25">Vaishnavi Panchal</a></br>
 
 
 
