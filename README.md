@@ -83,6 +83,7 @@ Contributors: <br></br>
 * <a href="https://github.com/Tithi1408">Tithi Patel </a></br>
 * <a href="https://github.com/devk22">Dev Khandelwal </a></br>
 * <a href="https://github.com/ranjan210">Ranjan </a></br>
+* <a href="https://github.com/Anushkaa27>Anushka Singh</a></br>
 
 
 
